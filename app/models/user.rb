@@ -9,6 +9,8 @@ class User
 
     私の名前は#{@first_name + @last_name}です
     
+    趣味はゲームです。
+    
     EOS
   end
 end
